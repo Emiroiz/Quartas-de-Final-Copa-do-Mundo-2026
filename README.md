@@ -53,7 +53,7 @@ O usuário executa o programa e recebe um sorteio aleatório das seleções clas
 
 **Emilly Gomes**
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, programação e desenvolvimento de software.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
 ## 📄 Licença
 
