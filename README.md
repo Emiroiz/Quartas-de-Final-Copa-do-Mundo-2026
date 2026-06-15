@@ -42,7 +42,7 @@ cd Quartas-de-Final-Copa-do-Mundo-2026
 3. Execute o arquivo desejado:
 
 ```bash
-python "Final copa do Mundo.py"
+python "Quartas copa do Mundo.py"
 ```
 
 ## 💡 Exemplo de Uso
